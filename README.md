@@ -1,2 +1,2 @@
 # My_python
-Logistic analysis
+Titanic: Machine Learning from Disaster
